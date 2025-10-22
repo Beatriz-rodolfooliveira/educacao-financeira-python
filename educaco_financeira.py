@@ -92,7 +92,7 @@ while True:
 
                     if chave_valor_excluir in calcular_despesas:
                         valor_excluido = calcular_despesas.pop(chave_valor_excluir)
-                        saldo += valor_excluido  # devolve o valor ao saldo
+                        saldo += valor_excluido  
                         print(f"\n✅ Despesa '{chave_valor_excluir}' excluída com sucesso!")
                         print(f"💰 Valor devolvido ao saldo: R$ {valor_excluido:,.2f}")
                         print(f"Saldo atual: R$ {saldo:,.2f}")
@@ -162,3 +162,4 @@ while True:
             f"📈 Investimentos: R$ {investimentos:.2f} ({porcentagem_investimento:.1%} do salário)\n"
             f"🎉 Lazer: R$ {lazer:,.2f} ({porcentagem_lazer:.1%} do salário)"
         )
+
