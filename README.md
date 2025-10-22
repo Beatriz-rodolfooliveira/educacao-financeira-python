@@ -8,7 +8,5 @@ O sistema permite ao usuário **gerenciar salário, despesas e investimentos** d
 - Praticar **Python**, manipulação de variáveis, estruturas de controle e dicionários.  
 - Desenvolver habilidades em **controle financeiro pessoal** e cálculos automatizados.  
 - Criar um projeto **prático e funcional** para portfólio profissional.
-
-  
-* Embora o projeto seja apenas em Python (sem interface web), ele funciona como um **backend de um sistema financeiro**, estruturando dados, calculando saldos e permitindo manipulação de informações de forma prática.
-* 💡 Além disso, este projeto contribui para meu estudo em **Análise de Dados**, mostrando como dados podem ser organizados e analisados mesmo em um ambiente simples de terminal.
+- Embora o projeto seja apenas em Python (sem interface web), ele funciona como um **backend de um sistema financeiro**, estruturando dados, calculando saldos e permitindo manipulação de informações de forma prática.
+- 💡 Além disso, este projeto contribui para meu estudo em **Análise de Dados**, mostrando como dados podem ser organizados e analisados mesmo em um ambiente simples de terminal.
